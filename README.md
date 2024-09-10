@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0577-employee-bonus](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/0577-employee-bonus) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
