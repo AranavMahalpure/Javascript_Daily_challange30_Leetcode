@@ -9,5 +9,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/0876-hand-of-straights) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+## Hash Table
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/0876-hand-of-straights) |
+## Greedy
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/0876-hand-of-straights) |
+## Sorting
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/0876-hand-of-straights) |
 <!---LeetCode Topics End-->
