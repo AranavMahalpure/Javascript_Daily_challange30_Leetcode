@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0876-hand-of-straights](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/0876-hand-of-straights) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -22,5 +23,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0876-hand-of-straights](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/0876-hand-of-straights) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
