@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0876-hand-of-straights](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/0876-hand-of-straights) |
+| [1127-last-stone-weight](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/1127-last-stone-weight) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/AranavMahalpure/Javascript_Daily_challange30_Leetcode/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
